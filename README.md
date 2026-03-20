@@ -1,2 +1,3 @@
-# advanced-task-manager-pjm1
+# Advanced Task Manager Pjm1
+
 A repository to test GitHub automation for issue management.
